@@ -5,3 +5,4 @@ topic_003 ブランチを作成
 master
 topic_001からtopic_002
 topic_001から指定なし
+topic_001からtopic_002のリモートブランチを作成して指定なしでpush
